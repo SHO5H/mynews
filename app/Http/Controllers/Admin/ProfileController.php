@@ -8,7 +8,7 @@ use App\Http\Controllers\Controller;
 use App\Profile;
 
 
-class NewsController extends Controller
+class ProfileController extends Controller
 {
   public function add()
   {
